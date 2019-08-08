@@ -9,3 +9,4 @@ Scenario Outline: Addition - Two numbers added together correctly
 	| number1 | number2 | result |
 	| 1       | 1       | 2      |
 	| 10      | 20      | 30     |
+	| 20      | 200     | 220    |
